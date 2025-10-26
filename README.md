@@ -1,8 +1,11 @@
+
 #  Animal Species Detection using YOLOv8 Model
 
 ##  Overview
 This project detects **animal species in real time** using **YOLOv8 (You Only Look Once)** — a cutting-edge deep learning model for object detection.  
 It takes live camera input or video files and instantly classifies animals such as Buffalo, Elephant, Rhino, Zebra, Cheetah, Fox, Jaguar, Tiger, Lion, Panda, and more.
+
+<img width="1910" height="960" alt="Screenshot 2025-10-26 114118" src="https://github.com/user-attachments/assets/3c68395b-0b89-4001-a82c-fd0efb599cd5" />
 
 ---
 
@@ -14,6 +17,24 @@ It takes live camera input or video files and instantly classifies animals such 
 -  Organized folder structure for training, testing, and deployment
 
 ---
+
+## Project Screenshot
+
+**Add picture**
+<img width="1910" height="957" alt="Screenshot 2025-10-26 113630" src="https://github.com/user-attachments/assets/d94f4f80-82c1-4864-b30d-d475b5c2eb91" />
+
+-----------------
+**Take Detection**
+<img width="1914" height="963" alt="Screenshot 2025-10-26 113811" src="https://github.com/user-attachments/assets/ebd5acd8-dee9-4e86-9d18-ccd623528da2" />
+
+----------------
+<img width="1902" height="962" alt="Screenshot 2025-10-26 113843" src="https://github.com/user-attachments/assets/3d3f525a-233b-4e08-ac0a-aa17e11de916" />
+
+-----------------------
+**Deploy this app using**
+<img width="1911" height="961" alt="Screenshot 2025-10-26 113944" src="https://github.com/user-attachments/assets/01d50c2c-fa25-4abd-8d86-95317521ba67" />
+
+---------------------
 
 ##  Technologies Used
 | Category        | Tools / Libraries                     |
