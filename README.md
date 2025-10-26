@@ -1,9 +1,32 @@
-# Real-Time-Animal-Species-Detection
-The aim of this project is to develop an efficient computer vision model capable of real-time wildlife detection.
+#  Animal Species Detection using YOLOv8 Model
 
-<p align="center">
-  <img src="./demo/demo.gif" alt="Demo GIF">
-</p>
+##  Overview
+This project detects **animal species in real time** using **YOLOv8 (You Only Look Once)** — a cutting-edge deep learning model for object detection.  
+It takes live camera input or video files and instantly classifies animals such as Buffalo, Elephant, Rhino, Zebra, Cheetah, Fox, Jaguar, Tiger, Lion, Panda, and more.
+
+---
+
+##  Key Features
+-  Real-time animal detection using webcam or video
+-  YOLOv8 trained custom model integration
+-  Streamlit web app interface for user-friendly interaction
+-  Visualized detection results with bounding boxes and confidence scores
+-  Organized folder structure for training, testing, and deployment
+
+---
+
+##  Technologies Used
+| Category        | Tools / Libraries                     |
+|-----------------|--------------------------------------|
+| **Deep Learning** | YOLOv8, PyTorch                     |
+| **Web Framework** | Streamlit                            |
+| **Data Processing** | OpenCV, NumPy, Pandas              |
+| **Visualization** | Matplotlib, Seaborn                  |
+| **Environment** | Python 3.10+, Virtual Environment (venv) |
+
+---
+
+
 
 ## Table of Contents
 - [Datasets](#datasets)
