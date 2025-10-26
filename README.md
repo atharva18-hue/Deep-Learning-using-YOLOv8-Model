@@ -26,8 +26,6 @@ It takes live camera input or video files and instantly classifies animals such 
 
 ---
 
-
-
 ## Table of Contents
 - [Datasets](#datasets)
 - [Project Structure](#project-structure)
@@ -109,6 +107,24 @@ The performance of the model is evaluated by metrics such as Precision, Recal, a
 The trained model has been deployed on Hugging Face for practical use.
 - you can access the deployed [web app](https://huggingface.co/spaces/ldebele/animal_detection_app)
 
+---
+## Model Details
+
+- **Base model**: YOLOv8s
+- **Framework**: Ultralytics
+- **Input size**: 640x640
+- **Classes**: 10 animal species
+- **Dataset**: Custom-labeled dataset prepared for object detection
+
+- --------------------------
 ## Contributing
 Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or a pull request.
+
+---------------
+
+## Author
+- **Atharva Chavhan** 
+- **Gmail:** atharvachavhan18@gmail.com
+- --------------------------------------- 
+
 
